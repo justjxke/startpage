@@ -17,7 +17,7 @@ const default_config = {
             {
               name: "roblox",
               url: "https://www.roblox.com/home",
-              icon: "icon-robot",
+              icon: "brand-roblox",
               icon_color: palette.blue,
             },
           ],
